@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 
-class Useroutput extends Component{
+class UserOutput extends Component{
     render(){
         return(
             <div>
@@ -15,4 +15,4 @@ class Useroutput extends Component{
     }
 }
 
-export default Useroutput;
+export default UserOutput;

@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class Userinput extends Component{
+class UserInput extends Component{
     render(){
         return(
             <div>
@@ -10,4 +10,4 @@ class Userinput extends Component{
     }
 }
 
-export default Userinput;
+export default UserInput;
